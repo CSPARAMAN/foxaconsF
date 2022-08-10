@@ -1,0 +1,13 @@
+.services .card-body i {
+	font-size: 50px;
+}
+.services .card{
+	border-radius: 5%;
+	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+	
+}
+
+
+.row .btn{
+	background-color: #ff5823;
+}
